@@ -1,3 +1,18 @@
 page-home {
 
 }
+
+.app-theme{
+  background-color: #F2F2F2;
+  ion-item{
+    padding: 5px;
+  }
+  ion-avatar{
+    img {
+      width: 25rem;
+      height: 25rem;
+      margin: auto;
+      display: block;
+    }
+  }
+}

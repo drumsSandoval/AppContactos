@@ -1,8 +1,10 @@
 {
   "name": "AppProyect",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular",
-  "proxies":[
+  "proxies": [
     {
       "path": "/contacts",
       "proxyUrl": "http://127.0.0.1:5000"
